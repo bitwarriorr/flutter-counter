@@ -5,4 +5,5 @@ Plus button increments the counter
 
 Refresh button is resetting the counter
 
-![Screenshot_2](https://user-images.githubusercontent.com/126814579/224508823-a0ee7dd5-2fb9-469f-8c0c-86385f601d61.png)
+
+![Screenshot_1](https://user-images.githubusercontent.com/126814579/226198447-64820625-6861-4d28-84f5-98806f4b9ae0.png)
