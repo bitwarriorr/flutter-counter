@@ -8,11 +8,11 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Zikirmatik',
+      title: 'CounterApp',
       theme: ThemeData.dark(),
       home: Scaffold(
         appBar: AppBar(
-          title: const Text('Zikirmatik'),
+          title: const Text('Counter App'),
         ),
         body: Center(
           child: CounterWidget(),
@@ -48,7 +48,7 @@ class _CounterWidgetState extends State<CounterWidget> {
       mainAxisAlignment: MainAxisAlignment.center,
       children: [
         const Text(
-          'Zikir Sayısı',
+          'Counter',
           style: TextStyle(fontSize: 24),
         ),
         Text(
